@@ -1,0 +1,8 @@
+body{
+    color:rgba(red, green, blue, alpha);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-color: violet;
+    background-color: peachpuff;
+    background-image:url('/image.jpg');
+    image-resolution: 400px;
+}
